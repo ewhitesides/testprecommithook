@@ -1,0 +1,5 @@
+- id: print_arguments
+  name: print_arguments
+  description: hook to print arguments
+  entry: print-arguments #needs to line up with entry pt in setup.cfg
+  language: python
